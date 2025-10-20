@@ -29,6 +29,10 @@ public class LoginHappyPath {
 
         String password = Data.PASSWORD;
         System.out.println("Test STARtED");
+
+        System.out.println("Test STARtED");
+        System.out.println("Test STARtED");
+
         System.setProperty("webdriver.chrome.driver", "C:\\webdrivers\\chromedriver.exe");
 
         driver.manage().deleteAllCookies();
