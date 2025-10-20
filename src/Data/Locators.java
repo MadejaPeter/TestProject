@@ -32,7 +32,7 @@ public class Locators {
 //    public static String PROFILE_ICON =  ".sc-lkwKjF.iMxBbC";
     public static String PROFILE_ICON =  ".sc-lkwKjF.iMxBbC";
     public static String PROFILE_ICON_AFTER_LOGGED =  ".sc-jmNpzm fPvTSk";
-ide
+
 
 
     //XPATH
@@ -43,6 +43,10 @@ ide
     // **** LINK TEXT ****
     public static String CREATE_EMAIL = "Písať nový mail";
     public static String CONTACT_PETER = "Peter";
+
+    String ahoj = "1";
+    String ahoj2 = "2";
+    String ahoj3 = "3";
 
 
 
